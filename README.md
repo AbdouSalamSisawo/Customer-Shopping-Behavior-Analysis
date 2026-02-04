@@ -58,7 +58,9 @@ customer-shopping-behavior-analysis/
 │   ├── customer_dashboard.pbix   # Power BI dashboard file
 │
 ├── report/
+│   ├── Business_Problem_Statement.pdf
 │   ├── Customer_Shopping_Behavior_Report.pdf
+│   ├── Customer_Behavior_Sales_Strategy_Slides.pdf
 │
 └── README.md
 ```
@@ -99,7 +101,8 @@ customer-shopping-behavior-analysis/
 
 * Compiled insights into a structured analytical report
 * Included figures, tables, and dashboard screenshots
-* Provided business-oriented recommendations
+* Prepared a stakeholder-focused presentation translating analytical findings into business insights
+* Provided strategic, business-oriented recommendations suitable for decision-makers
 
 ---
 
@@ -122,16 +125,20 @@ The Power BI dashboard presents an interactive overview of customer behavior and
 
 ## 🧾 Stakeholder Presentation
 
-In addition to the analytical report and dashboard, a **stakeholder-focused presentation** was generated using **Google NotebookLM**. The presentation translates technical findings into clear, business-oriented insights suitable for industry audiences, including managers and decision-makers.
+A **stakeholder-focused presentation** was developed to communicate the project findings in a concise and business-oriented manner. The slides were generated using **Google NotebookLM** and are intended for industry stakeholders such as managers, executives, and strategy teams.
 
-The slides emphasize:
+The presentation file is available in the **report/** directory:
 
-* Business context and problem framing
-* Key customer behavior insights
-* Strategic implications of subscriptions, discounts, and product performance
-* Actionable recommendations for improving engagement and revenue
+* `Customer_Behavior_Sales_Strategy_Slides.pdf`
 
-This presentation is designed to complement the Power BI dashboard by providing a concise narrative that supports executive-level decision-making. The Power BI dashboard presents an interactive overview of customer behavior and key metrics. It enables stakeholders to explore data dynamically using filters and visuals.
+The slides focus on:
+
+* Business context and problem definition
+* Key customer behavior insights derived from the analysis
+* Strategic implications of subscription models, discounts, and product performance
+* Actionable recommendations to improve customer engagement, revenue, and retention
+
+This presentation complements the analytical report and Power BI dashboard by providing a high-level narrative that supports executive decision-making. The Power BI dashboard presents an interactive overview of customer behavior and key metrics. It enables stakeholders to explore data dynamically using filters and visuals.
 
 > Note: The dashboard is designed for **local use** and does not require Power BI Service sign-in.
 
